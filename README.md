@@ -11,6 +11,7 @@ public class ConditionalExam {
 
 
 
+-----------*찍기 문제------------
 
 package ForTest;
 
@@ -31,3 +32,4 @@ public class forTest {
 
     }
 }
+
